@@ -9,4 +9,4 @@ The EMR system offers capabilities of storing, reviewing and logging patients' c
   git pull
 ```
 
-#### Contributor: https://github.com/MirajAdhikari
+#### Contributor: https://github.com/Lqpletsp
